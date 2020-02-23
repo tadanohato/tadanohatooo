@@ -1,0 +1,9 @@
+@charset "utf-8";
+body {
+	background-color:#010a43; /*背景色*/
+	font-size:30px; /*フォントサイズ*/
+	font-family: "メイリオ",sans-serif; /*フォント（変え方わからん）*/
+	line-height:10px; /*行の高さ*/
+	color:#ffe196; /*文字色*/
+
+}
